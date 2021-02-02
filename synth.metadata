@@ -4,15 +4,15 @@
       "git": {
         "name": ".",
         "remote": "https://github.com/googleapis/python-bigquery.git",
-        "sha": "2788736b80a4c4ac0ae3029aeb28bcefd34f2db7"
+        "sha": "64e1c0581b915e36756ea465936939390da7d818"
       }
     },
     {
       "git": {
         "name": "googleapis",
         "remote": "https://github.com/googleapis/googleapis.git",
-        "sha": "df4fd38d040c5c8a0869936205bca13fb64b2cff",
-        "internalRef": "344443035"
+        "sha": "20712b8fe95001b312f62c6c5f33e3e3ec92cfaf",
+        "internalRef": "354996675"
       }
     },
     {
@@ -42,6 +42,7 @@
     }
   ],
   "generatedFiles": [
+    ".coveragerc",
     ".flake8",
     ".github/CONTRIBUTING.md",
     ".github/ISSUE_TEMPLATE/bug_report.md",
@@ -91,8 +92,10 @@
     "CONTRIBUTING.rst",
     "LICENSE",
     "MANIFEST.in",
+    "bigquery-v2-py.tar.gz",
     "docs/_static/custom.css",
     "docs/_templates/layout.html",
+    "docs/bigquery_v2/model_service.rst",
     "docs/bigquery_v2/services.rst",
     "docs/bigquery_v2/types.rst",
     "docs/conf.py",
