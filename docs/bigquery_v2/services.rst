@@ -1,6 +1,6 @@
 Services for Google Cloud Bigquery v2 API
 =========================================
-.. toctree::
-    :maxdepth: 2
 
-    model_service
+.. automodule:: google.cloud.bigquery_v2.services.model_service
+    :members:
+    :inherited-members:
